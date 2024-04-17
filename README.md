@@ -16,3 +16,4 @@ This is a simple calculator app built with HTML, CSS, and JavaScript. It allows 
 - **CSS**: Styles the calculator app with colors, fonts, and dimensions.
 - **JavaScript**: Implements the functionality of the calculator, handling user input and calculations.
 
+https://manarmh02.github.io/calculator/
